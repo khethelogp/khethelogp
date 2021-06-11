@@ -35,11 +35,11 @@
 <details>
 <summary>How do I dropdown?</summary>
 <br>
-This is how you dropdown.
+  
+<img align="left" alt="KhetheloGP's Github status" src="https://github-readme-stats.vercel.app/api?username=khethelogp&show_icons=true&theme=tokyonight&hide_border=true" />
 </details>
 
 
-<img align="left" alt="KhetheloGP's Github status" src="https://github-readme-stats.vercel.app/api?username=khethelogp&show_icons=true&theme=tokyonight&hide_border=true" />
 
 [twitter]: https://twitter.com/khethelogp
 [instagram]: https://instagram.com/khetman_
