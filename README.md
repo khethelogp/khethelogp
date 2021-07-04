@@ -2,7 +2,7 @@
 
 ## I'm new, but a passionate Developer!
 
-- 💻 I'm currently working on my final year project (Hospital Management System).
+- 💻 I'm currently working on my final year project. (Hospital Management System)
 - 🌱 I'm currently learning everthing 🤣 (Trying my best)
 - 🥅 2021 Goals: Contribute to Open Source Projects
 - ⚡ Fun fact: I can solve a rubix cube
