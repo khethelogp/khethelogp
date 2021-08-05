@@ -1,4 +1,4 @@
-### Hi there, I'm Khethelo :wave:
+### Hi there, I'm Khethelo 😁:wave:
 
 ## I'm new, but a passionate Developer!
 
