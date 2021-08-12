@@ -1,6 +1,6 @@
 # Hi there, I'm Khethelo 😁:wave:
 
-### I'm an aspiring Software Engineer, I'm currently doing my Final year in Computer Science / Mathematics
+#### I'm an aspiring Software Engineer, I'm currently doing my final year in BSc Computer Science / Mathematics
 
 - 💻 I'm currently working on my final year project. (Hospital Management System)
 - 🌱 I'm currently learning everthing in React 🤣 (Trying my best)
