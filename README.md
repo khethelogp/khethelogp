@@ -5,7 +5,7 @@
 - 💻 I'm currently working on my final year project. (Hospital Management System)
 - 🌱 I'm currently learning everthing in React 🤣 (Trying my best)
 - 🥅 2021 Goals: Contribute to Open Source Projects
-- ⚡ Fun fact: I can solve a rubix cube in one minute
+- ⚡ Fun fact: I can solve a rubix cube in under two minutes
 
 ### Connect with me:
 
