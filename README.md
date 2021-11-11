@@ -1,5 +1,7 @@
 # Hi there, I'm Khethelo 😁:wave:
 
+<img align="right" alt="GIF" src="https://i.ibb.co/vvBVM6w/5eKX.gif"  height="200" />
+
 #### I'm an aspiring Software Engineer, I'm currently doing my final year in BSc Computer Science & Mathematics
 
 - 💻 I'm currently working on my final year project. (Hospital Management System)
