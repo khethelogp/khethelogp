@@ -2,9 +2,8 @@
 
 <img align="right" alt="GIF" src="https://i.ibb.co/vvBVM6w/5eKX.gif"  height="200" />
 
-#### I'm an aspiring Software Engineer, I'm currently doing my final year in BSc Computer Science & Mathematics
+#### I'm an aspiring Software Engineer
 
-- 💻 I'm currently working on my final year project. (Hospital Management System)
 - 🌱 I'm currently learning everthing in React and Flutter
 - 🥅 2021 Goals: Contribute to Open Source Projects
 - ⚡ Fun fact: I can solve a rubix cube in under two minutes
