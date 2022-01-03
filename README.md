@@ -5,7 +5,8 @@
 #### I'm an aspiring Software Engineer
 
 - 🌱 I'm currently learning everthing in React and Flutter
-- 🥅 2021 Goals: Contribute to Open Source Projects
+- 🎯 Focusing on Web and Mobile Development
+- 🥅 2022 Goals: Contribute to Open Source Projects
 - ⚡ Fun fact: I can solve a rubix cube in under two minutes
 
 ### Connect with me:
