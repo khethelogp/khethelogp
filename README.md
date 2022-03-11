@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://i.ibb.co/vvBVM6w/5eKX.gif"  height="200" />
 
-#### I'm a Software Developer
+#### I'm a Software Engineer
 
 - 🌱 I'm currently learning everthing in React and Flutter
 - 🎯 Focusing on Web and Mobile Development
