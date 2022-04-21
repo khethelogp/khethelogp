@@ -4,8 +4,9 @@
 
 #### I'm a Software Engineer
 
+- 🎓 B.Sc Computer Science graduate
 - 🌱 I'm currently learning everthing in React and Flutter
-- 🎯 Focusing on Web and Mobile Development
+- 🎯 Focusing on Web and Mobile Development (Fullstack)
 - 🥅 2022 Goals: Contribute to Open Source Projects
 - ⚡ Fun fact: I can solve a rubix cube in under two minutes
 
