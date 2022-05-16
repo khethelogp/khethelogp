@@ -23,12 +23,6 @@
   <a href="https://www.github.com/khethelogp" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="22" height="22" />
   </a> 
-  <a href="http://www.instagram.com/khetman_" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="22" height="22" />
-  </a>  
-  <a href="https://www.twitter.com/khethelogp" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="22" height="22" />
-  </a>
 </p>
 
 ### Languages and Tools
