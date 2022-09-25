@@ -1,8 +1,6 @@
 # Hi there, I'm Khethelo 😁:wave:
 
-<img align="right" alt="GIF" src="https://i.ibb.co/vvBVM6w/5eKX.gif"  height="200" />
-
-#### I'm a Software Engineer
+<!-- <img align="right" alt="GIF" src="https://i.ibb.co/vvBVM6w/5eKX.gif"  height="200" /> -->
 
 - 🎓 B.Sc Computer Science graduate
 - 🌱 I'm currently playing around with Next.js, React Native and Flutter
@@ -25,6 +23,7 @@
   </a> 
 </p>
 
+<!--
 ### Languages and Tools
 
 <p align="left">
@@ -133,6 +132,7 @@
     />
   </a>
 </p>
+-->
 
 ---
 
