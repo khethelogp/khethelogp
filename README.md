@@ -1,7 +1,11 @@
-# Hi there, I'm Khethelo 😁:wave:
+<h1 align="center">Hi there, I'm Khethelo 😁:wave:</h1>
 
+<!-- # Hi there, I'm Khethelo 😁:wave: -->
 <!-- <img align="right" alt="GIF" src="https://i.ibb.co/vvBVM6w/5eKX.gif"  height="200" /> -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khethelogp&label=Profile%20views&color=0e75b6&style=flat" alt="khethelogp" /> </p>
+
+- 👨🏾‍💻 Mobile Software Engineer
 - 🎓 B.Sc Computer Science graduate
 - 🌱 I'm currently playing around with Next.js, React Native and Flutter
 - 🎯 Focusing on Web and Mobile Development (Fullstack)
@@ -9,10 +13,6 @@
 - ⚡ Fun fact: I can solve a rubix cube in under two minutes
 
 ### Connect with me:
-
-<!-- [<img align="left" alt="khethelogp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="khethelogp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="khethelogp | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 
 <p align="left"> 
   <a href="https://www.linkedin.com/in/khethelo-ndhlala-41572820b/" target="_blank" rel="noreferrer">
