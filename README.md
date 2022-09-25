@@ -140,13 +140,13 @@
 <summary>⚡ GitHub Stats</summary>
 <br>
 
-<div>  
+<p>  
 <img align="left" alt="KhetheloGP's Github status" src="https://github-readme-stats.vercel.app/api?username=khethelogp&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
+</p>
 
-<div>
+<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khethelogp&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="khethelogp" />
-</div>
+</p>
 
 </details>
 
