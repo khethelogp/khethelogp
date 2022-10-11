@@ -3,7 +3,7 @@
 <!-- # Hi there, I'm Khethelo 😁:wave: -->
 <!-- <img align="right" alt="GIF" src="https://i.ibb.co/vvBVM6w/5eKX.gif"  height="200" /> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khethelogp&label=Profile%20views&color=0e75b6&style=flat" alt="khethelogp" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=khethelogp&label=Profile%20views&color=0e75b6&style=flat" alt="khethelogp" /> </p> -->
 
 - 👨🏾‍💻 Mobile Software Engineer
 - 🎓 B.Sc Computer Science graduate
