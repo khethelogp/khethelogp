@@ -6,10 +6,9 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=khethelogp&label=Profile%20views&color=0e75b6&style=flat" alt="khethelogp" /> </p> -->
 
 - 👨🏾‍💻 Mobile Software Engineer
-- 🎓 B.Sc Computer Science graduate
-- 🌱 I'm currently playing around with Next.js, React Native and Flutter
+- 🌱 I'm currently playing around with Next.js, Flutter, SwiftUI
 - 🎯 Focusing on Web and Mobile Development (Fullstack)
-- 🥅 2022 Goals: Contribute to Open Source Projects
+- 🥅 2023 Goals: Contribute to Open Source Projects
 - ⚡ Fun fact: I can solve a rubix cube in under two minutes
 
 ### Connect with me:
