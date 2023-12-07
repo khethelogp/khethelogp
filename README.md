@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Khethelo 😁:wave:</h1>
+<h1 align="center">Hi there, I'm Khethelo 😁👋 </h1>
 
 <!-- # Hi there, I'm Khethelo 😁:wave: -->
 <!-- <img align="right" alt="GIF" src="https://i.ibb.co/vvBVM6w/5eKX.gif"  height="200" /> -->
